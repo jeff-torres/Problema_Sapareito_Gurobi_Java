@@ -1,0 +1,736 @@
+
+Gurobi 8.1.1 (win64, Java) logging started 04/25/19 19:56:45
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+01, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective -0.0000000
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: -0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -0.000000000000e+00, best bound -0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/25/19 19:56:55
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+01, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective -0.0000000
+Presolve removed 2 rows and 2 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: -0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -0.000000000000e+00, best bound -0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/25/19 19:57:51
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.02s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/25/19 22:34:03
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:06:06
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:18:46
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:34:42
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:36:11
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:36:22
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:36:29
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:37:24
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Presolve time: 0.03s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.5000000e+30   4.125000e+30   4.500000e+00      0s
+       2    1.5000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.04 seconds
+Optimal objective  1.500000000e+01
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:42:09
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.5000000e+30   4.125000e+30   4.500000e+00      0s
+       2    1.5000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective  1.500000000e+01
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:42:34
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:43:38
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:48:05
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:48:18
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:48:44
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:48:59
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:49:09
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:49:53
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:50:01
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:50:53
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:51:03
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:51:13
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:51:52
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (2 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 7.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 7 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.000000000000e+00, best bound 7.000000000000e+00, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:52:36
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 00:52:43
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 1 continuous, 1 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.04s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 16:58:35
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Presolve time: 0.03s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.5000000e+30   4.125000e+30   4.500000e+00      0s
+       2    1.5000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.03 seconds
+Optimal objective  1.500000000e+01
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 16:58:37
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.5000000e+30   4.125000e+30   4.500000e+00      0s
+       2    1.5000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective  1.500000000e+01
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 16:59:02
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Found heuristic solution: objective 15.0000000
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+Variable types: 0 continuous, 2 integer (0 binary)
+
+Root relaxation: cutoff, 0 iterations, 0.00 seconds
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 15 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.500000000000e+01, best bound 1.500000000000e+01, gap 0.0000%
+
+Gurobi 8.1.1 (win64, Java) logging started 04/26/19 17:09:26
+
+Academic license - for non-commercial use only
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+01]
+  Objective range  [2e+00, 5e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [6e+00, 6e+01]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    4.5000000e+30   4.125000e+30   4.500000e+00      0s
+       2    1.5000000e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective  1.500000000e+01
